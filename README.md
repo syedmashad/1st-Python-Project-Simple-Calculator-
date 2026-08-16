@@ -1,5 +1,3 @@
-# 1st-Python-Project-Simple-Calculator-
-
 # 🧮 1st Python Project: Simple Calculator
 
 Welcome to my very first Python project! This is a clean, beginner-friendly Command Line Interface (CLI) calculator that performs basic mathematical operations.
